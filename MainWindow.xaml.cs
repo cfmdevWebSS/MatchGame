@@ -23,7 +23,7 @@ namespace MatchGame
         public MainWindow()
         {
             InitializeComponent();
-            SetUpGame();
+            SetUpGame(); 
         }
 
         private void SetUpGame()
